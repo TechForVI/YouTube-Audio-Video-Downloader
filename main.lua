@@ -20,7 +20,7 @@ import "java.io.File"
 
 activity = this
 
-local CURRENT_VERSION = "1.5"
+local CURRENT_VERSION = "1.0"
 local GITHUB_RAW_URL = "https://raw.githubusercontent.com/TechForVI/TikTok-Audio-Video-Downloader/main/"
 local VERSION_URL = GITHUB_RAW_URL .. "version.txt"
 local SCRIPT_URL = GITHUB_RAW_URL .. "main.lua"
