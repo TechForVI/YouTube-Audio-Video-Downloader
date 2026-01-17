@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/get-lua", "destination": "/api/get_code" }
+  ]
+}
